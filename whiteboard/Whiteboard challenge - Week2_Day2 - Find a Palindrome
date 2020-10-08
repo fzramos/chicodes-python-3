@@ -1,0 +1,11 @@
+Find a palindrome -- Given a string as an input to a function, return True if the string is a palindrome (reads the same front to back), return False if the string is NOT a palindrome
+
+Example:
+Input: “dad”
+Output: True
+
+Input: “racecar”
+Output: True
+
+Input: “Joel”
+Output: False
